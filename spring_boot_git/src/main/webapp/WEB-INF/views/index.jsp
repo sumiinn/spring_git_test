@@ -9,6 +9,6 @@
 	</head>
 	<body>
 		<h3>index 페이지</h3>
-최종버전
+                최종버전으로 수정 완료
 	</body>
 </html>
