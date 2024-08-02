@@ -8,6 +8,7 @@
 		<title>Insert title here</title>
 	</head>
 	<body>
-		<h3>index 페이지</h3>
+		<h3>hi 페이지</h3>
+		이거 맞나요 ㅠㅠ
 	</body>
 </html>
